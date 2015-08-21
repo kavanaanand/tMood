@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "KEY_DATA1": 11,
+        "KEY_DATA10": 20,
+        "KEY_DATA11": 21,
+        "KEY_DATA12": 22,
+        "KEY_DATA13": 23,
+        "KEY_DATA14": 24,
+        "KEY_DATA15": 25,
+        "KEY_DATA16": 26,
+        "KEY_DATA2": 12,
+        "KEY_DATA3": 13,
+        "KEY_DATA4": 14,
+        "KEY_DATA5": 15,
+        "KEY_DATA6": 16,
+        "KEY_DATA7": 17,
+        "KEY_DATA8": 18,
+        "KEY_DATA9": 19
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kavana.anand.9@gmail.com",
+    "longName": "Emotter",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Emotter",
+    "uuid": "4ca2931b-cc6f-4adc-9abf-f59a3f3b9641",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
